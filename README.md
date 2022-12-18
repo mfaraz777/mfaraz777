@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mfaraz777
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Backend Development.
 - 💞️ I'm actively looking for a SDE-1 role.
 - 📫 Reach me out on mujahidfaraz8@gmail.com
 
