@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Backend Development.
 - 💞️ I'm actively looking for a SDE-1 role.
+- Vist my website at https://mfaraz777.github.io/MyWebsite/
 - 📫 Reach me out on mujahidfaraz8@gmail.com
 
 <!---
